@@ -4,7 +4,7 @@ A shell simple brainkuck-like decoder.
 
 ## Compiling
 
-Run `make.
+Run ```make```.
 
 ## Running
 
