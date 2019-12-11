@@ -1,6 +1,6 @@
 # Brainfuck-like interpretor
 
-A shell simple brainkuck-like decoder.
+A simple brainkuck-like decoder in C++.
 
 ## Compiling
 
